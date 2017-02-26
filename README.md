@@ -1,11 +1,12 @@
 PPL-ASSIGNMENT -LIT2015009
+
 PRINCIPAL OF PROGRAMMING LANGUAGE ASSIGNMENT BY PROF RAHUL KALA SUBMITTED BY VRITIKA CHAUHAN
 
 OPERATING SYSTEM-
 TESTED IN LINUX
 
 INSTALLATION-
-For question no.1 ,execute following command in terminal
+For question no.1 ,execute following command in terminal- 
 gcc ppl.cpp 
 ./a.out
 
