@@ -8,6 +8,7 @@ TESTED IN LINUX
 INSTALLATION-
 For question no.1 ,execute following command in terminal- 
 gcc ppl.cpp 
+
 ./a.out
 
 OUTPUT-
