@@ -1,0 +1,10 @@
+neha 		400		manjeet		10		213
+priya		232		vashu		10		749
+rashmi		573		anshul		9		1100
+ambika		868		kartik		9		556
+shreya		453		sarthak		9		936
+nidhi		998		shubham		6		600
+ridhima		890		nitesh		2		734
+rashmi		868		manjeet		10		213
+mansi		777		rajat		2		555
+shreya		756		deepak		4		789

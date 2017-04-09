@@ -1,0 +1,10 @@
+shreya		453		5		5		abhi		685		7		9
+nidhi		756		6		8		ajay		1000		8		2
+akshita		890		8		10		anshul		1100		9		9
+priya		232		3		4		kartikay		685		7		9
+nihar		777		10		10		aman		789		4		7
+rashmi		573		2		1		kartikay		685		7		9
+ridhima		998		9		9		rajnish		1000		8		2
+neha 		400		1		7		teepu		999		8		7
+mansi		689		7		6		vinit		749		10		4
+ambika		868		4		9		anubhav		1100		9		9

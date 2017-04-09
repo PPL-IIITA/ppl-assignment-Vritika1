@@ -1,0 +1,10 @@
+shreya	abhi	300	1	0	0
+nidhi	ajay	690	1	1	0
+ridhima	ashu	690	1	1	0
+akshita	anshul	690	1	1	0
+priya	kartikay	300	1	1	0
+neha 	abhinav	300	1	1	0
+nihar	aman	690	1	1	0
+mansi	rajnish	690	1	1	0
+ambika	sarthak	690	1	1	0
+rashmi	kartikay	300	1	1	1

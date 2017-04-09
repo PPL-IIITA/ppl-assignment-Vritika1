@@ -1,0 +1,10 @@
+shreya		abhi		385.0
+nidhi		ajay		316.12686
+akshita		anshul		313.76218
+priya		kartikay		410.0
+nihar		aman		385.0
+rashmi		kartikay		300.0
+ridhima		rajnish		99.0
+neha 		teepu		310.0
+mansi		vinit		268.0
+ambika		anubhav		385.0

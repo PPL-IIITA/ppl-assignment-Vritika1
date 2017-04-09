@@ -1,0 +1,10 @@
+neha 		400		1		amit		1320
+priya		232		3		tushar		1200
+rashmi		573		2		anshul		1100
+ambika		868		4		ajay		1000
+shreya		453		5		ashu		999
+nihar		777		10		shubham		600
+ridhima		998		9		nitesh		734
+akshita		890		8		manjeet		213
+mansi		689		7		rajat		555
+nidhi		756		6		deepak		789
